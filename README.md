@@ -1,6 +1,7 @@
   # URL Shortener Microservice
 
   A RESTful API for shortening URLs, built with Spring Boot 3.3.5 and Java 21.
+  https://roadmap.sh/projects/url-shortening-service
 
   ## Tech Stack
 
